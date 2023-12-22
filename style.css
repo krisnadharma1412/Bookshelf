@@ -169,3 +169,20 @@ main {
     background-color: darkred;
     color: white;
 }
+
+/* Add this to your CSS file */
+.blue {
+    background-color: #3498db;
+    color: #fff;
+}
+
+.dialog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
