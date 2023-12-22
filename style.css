@@ -21,6 +21,15 @@ input, button {
     color: white;
 }
 
+.head_bar__icon {
+    height: 3em; /* Adjust the height as needed */
+    margin-right: 8px; /* Optional: Add some spacing between the icon and the text */
+}
+
+.head_bar__title {
+    margin: 0; /* Remove default margin to align text properly with the icon */
+}
+
 main {
     max-width: 800px;
     width: 80%;
