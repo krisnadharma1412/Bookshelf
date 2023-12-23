@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
         id: generateUniqueId(),
         title: title,
         author: author,
-        year: year,
+        year: parseInt(year),
         isComplete: isComplete
       };
     
